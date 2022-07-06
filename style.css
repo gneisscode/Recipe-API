@@ -134,6 +134,9 @@ li {
         margin-bottom: 1em;
         padding: 2em;
     }
+    .left h2{
+        padding: 2em;
+    }
 
     .right{
         width: 100%;
